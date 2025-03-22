@@ -1,6 +1,13 @@
 {
   "opinions": [
     {
+      "id": 1742658783223,
+      "votes": 0,
+      "userName": "Suhas B",
+      "title": "React is awesome",
+      "body": "React is an amazing JavaScript library! \nDespite all it's shortcomings."
+    },
+    {
       "id": 1,
       "userName": "Suhas Bachhav",
       "title": "Do yourself a favor and learn React!",
