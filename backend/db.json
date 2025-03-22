@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1742659156625,
-      "votes": 2,
+      "votes": 3,
       "userName": "Jidnya",
       "title": "React is awesome!!!",
       "body": "React is an amazing JavaScript library! Despite all it's shortcomings."
     },
     {
       "id": 1742658783223,
-      "votes": 0,
+      "votes": 1,
       "userName": "Suhas B",
       "title": "React is awesome",
       "body": "React is an amazing JavaScript library! \nDespite all it's shortcomings."
